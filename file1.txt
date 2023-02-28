@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world~~~~
 今天天气很好！
+=======
+hello world~
+>>>>>>> dev
